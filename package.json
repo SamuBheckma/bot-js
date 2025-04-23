@@ -1,0 +1,22 @@
+{
+    "name": "adar-bot",
+    "version": "1.0.0",
+    "description": "Discord Bot for compile javascript code in Discord.",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node --no-warnings bot.js",
+        "deploy:global": "node --no-warnings deploy.js global",
+        "deploy:guild": "node --no-warnings deploy.js guild",
+        "deploy:clear": "node --no-warnings deploy.js clear"
+    },
+    "dependencies": {
+        "discord.js": "^14.14.1",
+        "@discordjs/builders": "^1.7.0",
+        "@discordjs/rest": "^2.2.0",
+        "discord-api-types": "^0.37.65",
+        "dotenv": "^16.4.5"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.9"
+    }
+}

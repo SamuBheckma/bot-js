@@ -1,0 +1,11 @@
+{
+  "watch": [
+    "bot.js",
+    "commands/",
+    "scripts/"
+  ],
+  "ext": "js",
+  "ignore": [
+    "node_modules/"
+  ]
+}
