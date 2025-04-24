@@ -120,6 +120,3 @@ yarn deploy:clear   # Limpa comandos
 - Sistema de permissões por cargo
 - Timeout para execuções longas
 - Bloqueio de código malicioso
-
-## 📄 Licença
-Este projeto está licenciado sob a [Licença MIT](LICENSE) - veja o arquivo LICENSE para detalhes.
