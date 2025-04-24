@@ -65,8 +65,15 @@ npm run deploy:guild   # Comandos específicos do servidor
 yarn deploy:global     # Comandos globais
 yarn deploy:guild      # Comandos específicos do servidor
 ```
+---
 
 ## 🎮 Comandos
+
+### `/log`
+Exibe o informações básicas do bot.
+```
+/log
+```
 
 ### `compile`
 Executa código JavaScript.
@@ -93,6 +100,7 @@ Limpa mensagens do canal.
 ```
 /purge <quantidade>
 ```
+---
 
 ## 📦 Scripts Disponíveis
 ```bash
@@ -108,6 +116,7 @@ yarn deploy:global  # Deploy global
 yarn deploy:guild   # Deploy no servidor
 yarn deploy:clear   # Limpa comandos
 ```
+---
 
 ## 🔒 Segurança
 - Sandbox para execução de código
