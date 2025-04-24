@@ -50,6 +50,8 @@ yarn start
 1. Crie um arquivo `.env` na raiz do projeto:
 ```plaintext
 TOKEN=seu_token_do_bot
+CLIENT_ID=id_do_bot
+GUILD_ID=id_do_servidor_de_teste
 OWNER_ID=seu_id_de_admin
 ```
 
