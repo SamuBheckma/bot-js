@@ -9,7 +9,7 @@ Bot que permite executar código JavaScript diretamente no Discord, com suporte 
 - **Modo Temporário**: Sistema de limpeza automática de mensagens
 
 ## 📋 Pré-requisitos
-- Node.js 16.x ou superior
+- Node.js 18 ou superior
 - NPM ou Yarn
 - Token de Bot do Discord
 - Permissões de Administrador no servidor Discord
